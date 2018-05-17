@@ -1,0 +1,10 @@
+slides {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.slides ul {
+  list-style: inside none disc;
+  margin: 0;
+  padding: 0;
+}
